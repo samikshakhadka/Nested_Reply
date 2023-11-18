@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Nested_Reply
+creating a Reddit like website that provides a flexible comment/reply system
+Create a UI in React that does the following task:
+You are creating a Reddit like website that provides a flexible comment/reply system like below where reply can be nested arbitrarily.
+
+This is reply 1.
+    This is reply to reply 1. 
+    This is another reply to reply 1.
+        This is reply to second reply of reply 1.
+This is reply 2. 
+You don’t need any other features of Reddit or the same colour scheme—just the comment section, which allows replying.
+There is no need to implement persistence or server-side stuff—just the UI.
+>>>>>>> 81caa8f5bb50f743c348d6b63ec60be38e6ea036
